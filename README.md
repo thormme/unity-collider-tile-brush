@@ -21,5 +21,5 @@ Download or clone this repository into your project in the folder `Packages/com.
 The following line needs to be added to your `Packages/manifest.json` file in your Unity Project under the `dependencies` section:
 
 ```json
-"com.thormme.2d.tilemap.collider": "https://github.com/thormme/unity-collider-tile-brush.git#master"
+"com.thormme.2d.tilemap.collider": "https://github.com/thormme/unity-collider-tile-brush.git#main"
 ```
