@@ -19,7 +19,7 @@ namespace UnityEditor.Tilemaps
         /// When set to true the collider type will be saved to the base tile.
         /// This will effect every tile painted using the tile.
         /// </summary>
-        public bool m_modifyBaseTile = false;
+        public bool m_modifyBaseTile = true;
 
         /// <summary>
         /// Sets the ColliderType of the painted tile to the selected type
