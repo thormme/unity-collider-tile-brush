@@ -1,6 +1,10 @@
 {
 	"name": "Editor",
     "optionalUnityReferences": [],
+    "references": [
+        "GUID:613783dc1674e844b87788ea74ede0f6",
+        "GUID:3a9781db4804a9945b9883f3a7c46d45"
+    ],
     "includePlatforms": [
         "Editor"
     ],
