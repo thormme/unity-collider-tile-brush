@@ -1,6 +1,6 @@
 {
     "name": "com.thormme.2d.tilemap.collider",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "displayName": "Tilemap Collider Type Brush",
     "description": "Provides a tilemap brush which is able to modify the ColliderType of tiles",
     "unity": "2021.3",

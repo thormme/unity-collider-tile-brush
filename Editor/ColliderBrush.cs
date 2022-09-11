@@ -60,6 +60,7 @@ namespace UnityEditor.Tilemaps
                 if (modifyBaseTile == true && tileCast != null)
                 {
                     tileCast.colliderType = colliderType;
+                    EditorUtility.SetDirty(tileCast);
                 }
                 
                 tilemap.SetColliderType(position, colliderType);
